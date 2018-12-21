@@ -1,0 +1,3 @@
+language: bash
+script:
+  - drip_01_even_better_sh_test.sh
